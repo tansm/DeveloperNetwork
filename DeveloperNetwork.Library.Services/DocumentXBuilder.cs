@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using DeveloperNetwork.Library.Common;
+using DeveloperNetwork.Common.Library;
 
 namespace DeveloperNetwork.Library.Services {
 
@@ -13,7 +13,7 @@ namespace DeveloperNetwork.Library.Services {
     class DocumentXBuilder {
 
         public ITreeItem[] Build() {
-
+            throw new NotImplementedException();
         }
     }
 }

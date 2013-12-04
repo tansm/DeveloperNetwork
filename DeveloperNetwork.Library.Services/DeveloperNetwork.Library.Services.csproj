@@ -53,10 +53,6 @@
       <Project>{eeb21130-7a84-4c62-9e2f-7a756dd371c4}</Project>
       <Name>DeveloperNetwork.Common</Name>
     </ProjectReference>
-    <ProjectReference Include="..\DeveloperNetwork.Library.Common\DeveloperNetwork.Library.Common.csproj">
-      <Project>{c0ee77f9-2bc7-4b49-83bb-cb3749cbbe35}</Project>
-      <Name>DeveloperNetwork.Library.Common</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

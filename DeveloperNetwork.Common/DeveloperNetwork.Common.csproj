@@ -40,6 +40,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ExceptionHelper.cs" />
+    <Compile Include="Library\DocumentTreeItem.cs" />
+    <Compile Include="Library\ITreeItem.cs" />
+    <Compile Include="Library\TreeNode.cs" />
+    <Compile Include="Library\TreeNodeCollection.cs" />
     <Compile Include="StringZip.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
