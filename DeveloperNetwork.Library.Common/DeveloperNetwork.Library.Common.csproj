@@ -42,6 +42,8 @@
     <Compile Include="DocumentTreeItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ITreeItem.cs" />
+    <Compile Include="TreeNode.cs" />
+    <Compile Include="TreeNodeCollection.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DeveloperNetwork.Common\DeveloperNetwork.Common.csproj">
